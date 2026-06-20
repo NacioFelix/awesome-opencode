@@ -204,6 +204,7 @@ OpenCode is also available as a **[Desktop App (Beta)](https://opencode.ai/downl
 | [OpenCode-Obsidian](https://github.com/mtymek/opencode-obsidian) | Obsidian plugin that embeds OpenCode in Obsidian's UI |
 | [ai-sdk-provider-opencode-sdk](https://github.com/ben-vargas/ai-sdk-provider-opencode-sdk) | Vercel AI SDK provider for using OpenCode via `@opencode-ai/sdk` |
 | [opencode plugin template](https://github.com/zenobi-us/opencode-plugin-template) | Template for building OpenCode plugins |
+| [ax](https://github.com/Necmttn/ax) | Local-first telemetry and memory graph for OpenCode, Claude Code, Codex, Cursor, and skills, with MCP queries and cost/session analytics |
 
 ---
 
