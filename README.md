@@ -199,6 +199,7 @@ OpenCode is also available as a **[Desktop App (Beta)](https://opencode.ai/downl
 | [OpenChamber](https://github.com/btriapitsyn/openchamber) | Web / Desktop App and VS Code Extension for OpenCode |
 | [OpenWork](https://github.com/different-ai/openwork) | Open-source alternative to Claude Cowork, powered by OpenCode |
 | [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) | Desktop, Web, Mobile and Remote Client App for OpenCode |
+| [Redock](https://redock.dev) | Native Android & iOS SSH/Mosh terminal for running OpenCode on your own host, with tmux session continuity, project shortcuts, reusable actions, and voice input |
 | [portal](https://github.com/hosenur/portal) | Mobile-first web UI for OpenCode over Tailscale/VPN |
 | [kimaki](https://github.com/remorses/kimaki) | Discord bot to control OpenCode sessions via SDK |
 | [OpenCode-Obsidian](https://github.com/mtymek/opencode-obsidian) | Obsidian plugin that embeds OpenCode in Obsidian's UI |
