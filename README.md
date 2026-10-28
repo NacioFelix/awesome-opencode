@@ -196,6 +196,7 @@ OpenCode is also available as a **[Desktop App (Beta)](https://opencode.ai/downl
 
 | Project | Description |
 |:---|:---|
+| [Agent Notifications](https://github.com/777genius/agent-notifications) | Desktop and optional webhook alerts for OpenCode root-session completion, questions, permissions, and errors on macOS, Linux, and Windows |
 | [OpenChamber](https://github.com/btriapitsyn/openchamber) | Web / Desktop App and VS Code Extension for OpenCode |
 | [OpenWork](https://github.com/different-ai/openwork) | Open-source alternative to Claude Cowork, powered by OpenCode |
 | [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) | Desktop, Web, Mobile and Remote Client App for OpenCode |
